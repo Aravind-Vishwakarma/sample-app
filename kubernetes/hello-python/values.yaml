@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: gmanal1005/hello-python
+  repository: aravind43zz/hello-python
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "red"
